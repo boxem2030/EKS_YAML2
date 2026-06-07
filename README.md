@@ -1,0 +1,2 @@
+# EKS_YAML2
+EKS를 활용한 쿠버네티스 운영 APP 2
